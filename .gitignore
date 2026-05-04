@@ -9,10 +9,6 @@
 # .tfvars files
 *.tfvars
 
-# tardigrade-ci
-.tardigrade-ci
-tardigrade-ci/
-
 # python cache
 __pycache__
 .python-version
